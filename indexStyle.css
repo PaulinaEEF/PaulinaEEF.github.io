@@ -1,0 +1,78 @@
+body{
+    background-color: hsl(150, 83%, 65%) !important;
+}
+
+
+
+@media screen and (min-width: 800px) {
+    .fa-book {
+        font-size: 4em;
+    }
+} 
+
+.bg_2{
+    color: rgb(28, 87, 105);
+    max-width: 100%;
+}
+
+.principal_f{
+    color: rgb(28, 87, 105)
+}
+
+.container_p{
+    background-color:  rgb(136, 81, 138) !important;
+}
+
+
+.lbl{
+    color: #eee;
+}
+
+.fa-plus-circle{
+    margin-right: 3px;
+}
+
+.tag_1, .btn_r{
+    /* background-color: rgb(77, 111, 150); */
+    padding: 5px;
+    border: 1px solid white;
+    color: white;
+    border-radius: 12px;
+    margin-left: 6px;
+}
+
+.tag_1:hover{
+    background-color: rgb(123, 55, 150);
+}
+
+.btn_r{
+    background: rgb(77, 111, 150);
+    color: #eee;
+    margin-top: 6px;
+}
+
+.btn_r:first-child:hover{
+    background: rgb(18, 20, 128);
+}
+
+.btn_r:last-child:hover{
+    background: rgb(194, 30, 30);
+}
+
+.fas{
+    padding: 3px;
+    margin: 3px;
+    color: #eee;
+}
+
+.reacciones{
+    margin: 3px;
+}
+
+.contenerPublicacion{
+    border-radius: 10px;
+}
+
+.title{
+    color: #eee;
+}
